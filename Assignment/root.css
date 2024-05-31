@@ -1,0 +1,19 @@
+:root 
+{
+    --background-color: #1E1E1E;
+    --font-primary-color: #fefeff;
+    --primary-color: #FD6F00;
+}
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "Antonio", sans-serif;
+    font-weight: 400;
+    color: var(--font-primary-color);
+}
+body{
+    background-color: var(--background-color); 
+}
+.container{
+    padding: 40px 180px;
+}
